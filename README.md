@@ -1,0 +1,2 @@
+# grafana
+Installs Grafana.
